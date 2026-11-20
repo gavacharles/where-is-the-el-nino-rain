@@ -1,6 +1,6 @@
 # where-is-the-el-nino-rain
 
-Companion repository to the article *Where is the El Niño rain?*: the full article text plus every graphic and animation, free to share with credit.
+Companion repository to the article *Where is the El Niño rain?*: every graphic and animation, free to share with credit.
 
 ![Where is the El Niño rain?](images/cover_social_1200x630.png)
 
@@ -8,7 +8,6 @@ Companion repository to the article *Where is the El Niño rain?*: the full arti
 
 | Path | What it is |
 | --- | --- |
-| [`article.md`](article.md) | The full article with all graphics embedded |
 | [`images/`](images/) | Social-ready graphics, city cards, the Substack cover and the social preview card |
 | [`images/extra/`](images/extra/) | More detailed figures from the underlying report |
 | [`animations/`](animations/) | GIFs: 2026 vs 1997 rainfall race, warming nights, and built-up growth of Kampala, Nairobi, Dar es Salaam, Lagos and Johannesburg (1975–2030) |
